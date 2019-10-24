@@ -1,4 +1,4 @@
-# Darth Vader.(Food Ordering App)
+# Darth Vader (Sound Filter App)
 Android App that makes you sound like Darth Vader, created using Android & Java.
 ## Getting Started
 To run the project on your device clone or download the Git Repo
@@ -6,7 +6,7 @@ To run the project on your device clone or download the Git Repo
 ```
 Android Studio
 ```
-Now you can run the project from your Xcode enviroment.
+Now you can run the project from your Android Studio enviroment.
 ## Built With
 * [Android](https://developer.android.com/) - Platform
 * [Java](https://www.java.com/) - Programming Language
