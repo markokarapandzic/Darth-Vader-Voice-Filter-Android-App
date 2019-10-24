@@ -1,6 +1,3 @@
-# Darth-Vader-Voice-Filter-Android-App
-Android App that makes you sound like Darth Vader.
-
 # Darth Vader.(Food Ordering App)
 Android App that makes you sound like Darth Vader, created using Android & Java.
 ## Getting Started
