@@ -55,9 +55,10 @@
         android:layout_marginStart="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
-        android:text="Play Darth Vader Voice"
+        android:height="150dp"
+        android:text="Become Darth Vader"
         android:textAlignment="center"
-        android:textSize="18sp"
+        android:textSize="28sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
